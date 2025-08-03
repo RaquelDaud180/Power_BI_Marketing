@@ -1,4 +1,4 @@
-# 🩴📊 Dashboard Interativo — Campanha Havaianas | Power BI 🌴🌊
+#  Dashboard Interativo — Campanha Havaianas | Power BI 🌴🌊
 
 ![Screenshot do Dashboard](https://github.com/RaquelDaud180/Power_BI_Marketing/blob/main/WhatsApp%20Image%202025-08-03%20at%2018.40.24.jpeg)
 
